@@ -1,4 +1,4 @@
-#include <iostream>
+```#include <iostream>
 #include<algorithm>
 using namespace std;
 class Node//定义一个结点类
@@ -65,4 +65,4 @@ while(cin>>data)
   cout<<p[0]->height()<<endl;
 
   
-}
+}```
